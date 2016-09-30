@@ -4,7 +4,7 @@ Out of the box the database connections configured in `database.php` config are 
 
 * mysql 
 * sqlite 
-* pqsql 
+* pgsql 
 * sqlsrv 
 * oci8
  
