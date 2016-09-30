@@ -5,7 +5,7 @@ This package supports these caching systems out of the box:
 * redis
 * memcached
 * file
-* acp
+* apc
 * array
 
 ## Extending or Adding Cache Drivers
